@@ -1,0 +1,1 @@
+"this is a algo for making a  triangle"
